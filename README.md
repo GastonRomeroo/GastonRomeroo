@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaston</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gastonromeroo&label=Profile%20views&color=0e75b6&style=flat" alt="gastonromeroo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastonromeroo" alt="gastonromeroo" /></a> </p>
 
