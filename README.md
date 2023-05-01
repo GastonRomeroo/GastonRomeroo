@@ -2,10 +2,6 @@
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastonromeroo" alt="gastonromeroo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gaztoromero" target="blank"><img src="https://img.shields.io/twitter/follow/gaztoromero?logo=twitter&style=for-the-badge" alt="gaztoromero" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [Buenos Aires VRV](https://www.buenosairesvrv.com.ar/)
